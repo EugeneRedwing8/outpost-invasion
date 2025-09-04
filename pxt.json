@@ -1,0 +1,65 @@
+{
+    "name": "OUTPOST INVASION-v1.0.0",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "browser-events": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "BetterArrays": "github:sargedev/betterarrays#v1.2.2",
+        "ColorBlock": "github:unsignedarduino/colorblock#ac7b9500e40045cf1ddd8c5b7481d11bcb317f5f",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.0",
+        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.0",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "Visual-TileMap-Layers": "github:unsignedarduino/visual-tilemap-layers#61b4f4602b416cde3aed546d3f4a6ba1ec05a148",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "BetterSettings": "github:sargedev/bettersettings#2023.5.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.56",
+        "tag": "v2.0.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2e47d3464cf6ea715ec6e630834bbe15bc2f6feb",
+        "target": "2.0.56",
+        "pxt": "11.3.59",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#B5B5B5",
+        "#7D7D7D",
+        "#FFC933",
+        "#FFEA00",
+        "#94A0FF",
+        "#FF80DD",
+        "#AD007F",
+        "#5A66BF",
+        "#B07ECE",
+        "#783C80",
+        "#804A00",
+        "#540303",
+        "#990000",
+        "#000000"
+    ]
+}
